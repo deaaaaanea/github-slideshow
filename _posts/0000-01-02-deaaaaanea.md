@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello there
+I'm an angel of the lord
 Use the left arrow to go back!
